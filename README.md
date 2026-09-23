@@ -17,18 +17,6 @@ I'm a Brazilian high school student who enjoy understanding how things work, org
 I am particularly interested in technology, innovation, and industrial environments, especially in how different fields can come together to solve real-world problems.
 
 
-
-
-<br>
-
-
-## About Me
-
-I'm studying **Systems Development**
-
-
-<br>
-
 ## Technologies & Tools
 
 ### Development
@@ -52,7 +40,7 @@ I'm studying **Systems Development**
 ### Other Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,vscode" />
+<img src="https://skillicons.dev/icons?i=arduino,vscode,insominia" />
 </p>
 
 # Let's Connect!
