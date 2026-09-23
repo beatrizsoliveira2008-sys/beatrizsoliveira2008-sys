@@ -40,7 +40,8 @@ I am particularly interested in technology, innovation, and industrial environme
 ### Other Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,vscode,insomnia" />
+<img src="https://skillicons.dev/icons?i=arduino,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia" />
 </p>
 
 # Let's Connect!
