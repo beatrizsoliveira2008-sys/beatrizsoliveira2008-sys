@@ -12,7 +12,7 @@
 
 </div> 
 
-I'm a Brazilian high school student who enjoy understanding how things work, organizing processes, and finding more efficient ways to solve problems. I tend to make decisions based on data and patterns and pay close attention to detail.**.
+I'm a Brazilian high school student who enjoy understanding how things work, organizing processes, and finding more efficient ways to solve problems. I tend to make decisions based on data and patterns and pay close attention to detail.
 
 I am particularly interested in technology, innovation, and industrial environments, especially in how different fields can come together to solve real-world problems.
 
